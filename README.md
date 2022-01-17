@@ -7,17 +7,19 @@ This study seeks to analyze whether being paid for Amazon reviews creates bias i
 
 ## Results
 
-### * Total Reviews
+### Comparing Totals and Percentages
+
+* Total Reviews
 ![image](https://user-images.githubusercontent.com/24308495/149827320-73cc96e4-58da-499a-9985-3a793d78377b.png)
 
 
 
-### Total 5-Star Reviews
+* Total 5-Star Reviews
 ![image](https://user-images.githubusercontent.com/24308495/149827281-26e7f7df-d451-429a-b99b-4920ee82fc38.png)
 
 
 
-### Percentage of Vine vs non-Vine 5-Star Reviews
+* Percentage of Vine vs non-Vine 5-Star Reviews
 ![image](https://user-images.githubusercontent.com/24308495/149827375-e8bc0417-553c-43d5-bb50-b37ac3c63504.png)
 
 
